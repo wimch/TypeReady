@@ -1,0 +1,37 @@
+{
+  "language": "nl",
+  "layout": "AZERTY_BE",
+  "html": {
+    "tab": "Frans",
+    "category": "Casse-cou 5+6",
+    "name": "... -> Module 7"
+  },
+  "lesson": [
+    {
+      "type": "PICTURES",
+      "title": "Vertaal naar het frans",
+      "level": "W10_AND_HIGHER",
+      "data": [
+        "lessons/french/cc5m1",
+        "lessons/french/cc5m2",
+        "lessons/french/cc5m3",
+        "lessons/french/cc5m4",
+        "lessons/french/cc5m5",
+        "lessons/french/cc5m6",
+        "lessons/french/cc5m7",
+        "lessons/french/cc5m8",
+        "lessons/french/cc6m1",
+        "lessons/french/cc6m2",
+        "lessons/french/cc6m3",
+        "lessons/french/cc6m4",
+        "lessons/french/cc6m5",
+        "lessons/french/cc6m6",
+        "lessons/french/cc6m7"
+      ],
+      "fromText": 1,
+      "toText": 2,
+      "lives": 30,
+      "mode": "highscore"
+    }
+  ]
+}

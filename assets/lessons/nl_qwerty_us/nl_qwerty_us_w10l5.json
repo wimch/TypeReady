@@ -1,0 +1,104 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "theme": "space",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 10",
+    "name": "Les 5"
+  },
+  "lesson": [
+    {
+      "type": "COMPUTER",
+      "text": "Welkom bij de 5de les van deze week. {WAIT=3}\nBen je er klaar voor? "
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 15,
+      "background": "space1.jpg"
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "Miljoenen lichtjes, ver en oud,\nsommige al lang gedoofd,\nmaar toch nog zichtbaar, helder, koud,\nhun licht heeft ons nu pas bereikt.\n\nDe melkweg spant zich als een boog,\neen rivier van licht en stof,\nen ergens daar, oneindig hoog,\ndraait alles rond in stil gehoor.\n\nWij staan hier, klein, op onze bol,\nen kijken op naar wat ooit was,\nhet licht dat nu ons oog vervult,\nvertelt een lang vervlogen tijd.\n\nToch voelt het niet als eenzaamheid,\nmaar als een band met al wat is,\nwe zijn gemaakt van sterrenstof,\nen kijken naar wat wij eens... gemist?"
+    },
+    {
+      "type": "FRUIT",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20,
+      "background": "trees1.jpg"
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "Zwevend in het zwarte niets,\nmet de aarde als een blauwe knikker,\ngeen zwaartekracht, geen boven, geen onder,\nalleen de stilte, en het wonder.\n\nDoor het venster van het schip\nzie ik de wolken traag bewegen,\neen dag en nacht in negentig minuten,\nzo snel, zo vreemd, zo onbegrepen.\n\nGeen wind hier, en geen enkel geluid,\nalleen het zoemen van machines,\nen toch, in deze stilte, voel ik\nhoe klein wij zijn, en toch hoe grote wensen.\n\nDe aarde draait, zo ver van hier,\nmijn thuis, een stipje in het zwart,\nik draag haar mee, diep in mijn hart,\nterwijl ik zwerf, tussen ster en start."
+    },
+    {
+      "type": "PICTURES",
+      "level": "W10_AND_HIGHER",
+      "data": [
+        "lessons/french/cc5m1",
+        "lessons/french/cc5m2",
+        "lessons/french/cc5m3",
+        "lessons/french/cc5m4",
+        "lessons/french/cc5m5",
+        "lessons/french/cc5m6",
+        "lessons/french/cc5m7",
+        "lessons/french/cc5m8",
+        "lessons/french/cc6m1",
+        "lessons/french/cc6m2",
+        "lessons/french/cc6m3",
+        "lessons/french/cc6m4",
+        "lessons/french/cc6m5",
+        "lessons/french/cc6m6",
+        "lessons/french/cc6m7",
+        "lessons/french/cc6m8"
+      ],
+      "fromText": 1,
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W10_AND_HIGHER",
+      "lives": 5,
+      "pattern": "1w[5-10]",
+      "winAfter": 30
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "Een rode wereld, stil en droog,\ngeen leven zichtbaar, geen rivier,\nmaar toch, in stof en oude grond,\nmisschien een spoor, een teken hier.\n\nDe mens droomt al zo lang van gaan,\nnaar verre werelden, nooit betreden,\neen nieuwe stap, een nieuw bestaan,\nop grond waar niemand ooit kon treden.\n\nDe raketten branden, feller nog,\nde aarde wordt een klein steentje,\nterwijl we reizen, dag na dag,\nnaar een planeet, ooit slechts een sprookje.\n\nZo groeit de mens, verlangend, klein,\nnaar sterren toe, naar nieuw begin,\nmisschien vindt daar, op korrels fijn,\nhet leven weer een nieuwe zin."
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Bye bye!"
+    }
+  ]
+}

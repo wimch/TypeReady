@@ -1,0 +1,84 @@
+{
+  "language": "nl",
+  "layout": "AZERTY_BE",
+  "html": {
+    "tab": "Azerty",
+    "category": "Week 2",
+    "name": "Les 4"
+  },
+  "lesson": [
+    {
+      "type": "PLACEHOLDER",
+      "text": "Welkom bij de 4de les van deze week"
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W2_L3",
+      "lives": 5,
+      "winAfter": 3
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W2_L3",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "PLACEHOLDER",
+      "text": "Toon hoe je de vinger moet zetten voor u"
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W2_L4",
+      "pattern": "5[u]",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W2_L4",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "FRUIT",
+      "level": "W2_L4",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W2_L4",
+      "lives": 5,
+      "winAfter": 3
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W2_L4",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W2_L4",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W2_L4",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W2_L4",
+      "lives": 5,
+      "winAfter": 3
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Bye bye!"
+    }
+  ]
+}

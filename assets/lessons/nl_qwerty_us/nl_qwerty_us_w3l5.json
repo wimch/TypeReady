@@ -1,0 +1,81 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "theme": "space",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 3",
+    "name": "Les 5"
+  },
+  "lesson": [
+    {
+      "type": "COMPUTER",
+      "text": "Welkom bij de 5de les van deze week. {WAIT=3}\nZoals altijd beginnen we eerst met een kleine opwarming. {WAIT=3}\nBen je er klaar voor? "
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W3_L4",
+      "pattern": "1w[4-6]",
+      "lives": 5,
+      "winAfter": 15,
+      "background": "space1.jpg"
+    },
+    {
+      "type": "FRUIT",
+      "level": "W3_L4",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "PLACEHOLDER",
+      "text": "Toon hoe je de vingers moet zetten voor q"
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L5",
+      "pattern": "5[q]10[qwp]",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W3_L5",
+      "lives": 5,
+      "winAfter": 2
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L5",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W3_L5",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W3_L5",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "FRUIT",
+      "level": "W3_L5",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W3_L5",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Tot volgende week!"
+    }
+  ]
+}

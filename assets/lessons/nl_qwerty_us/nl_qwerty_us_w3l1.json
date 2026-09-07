@@ -1,0 +1,82 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "theme": "spring",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 3",
+    "name": "Les 1"
+  },
+  "lesson": [
+    {
+      "type": "COMPUTER",
+      "text": "Welkom bij de 1ste les van deze week. {WAIT=3}\nWe beginnen eerst met een kleine opwarming. {WAIT=3}\nBen je er klaar voor? "
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W2_L5",
+      "lives": 5,
+      "winAfter": 2
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W2_L5",
+      "pattern": "1w[4-6]",
+      "lives": 5,
+      "winAfter": 15,
+      "background": "space1.jpg"
+    },
+    {
+      "type": "PLACEHOLDER",
+      "text": "Toon hoe je de vingers moet zetten voor o"
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L1",
+      "pattern": "5[o]10[uro]",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W3_L1",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "FRUIT",
+      "level": "W3_L1",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W3_L1",
+      "lives": 5,
+      "winAfter": 3
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W3_L1",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L1",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W3_L1",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Volgende les gaan we naar de zomer. Dan moeten we zeker voldoende zonnecrème smeren.",
+      "background": "summer5.jpg"
+    }
+  ]
+}

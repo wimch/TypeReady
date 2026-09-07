@@ -1,0 +1,105 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "theme": "summer",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 10",
+    "name": "Les 2"
+  },
+  "lesson": [
+    {
+      "type": "COMPUTER",
+      "text": "Welkom bij de 2de les van deze week. {WAIT=3}\nBen je er klaar voor? "
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 15,
+      "background": "space1.jpg"
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "De zon staat hoog, de dag is lang,\nde lucht trilt van een zoele zang,\nhet gras ligt geel en warm te dromen,\nonder blauwe, wolkeloze zomen.\n\nDe zee roept met haar zilte stem,\nkinderen rennen blootsvoets, zonder rem,\neen ijsje smelt te snel in handen,\nzout en zon aan alle kanten.\n\n's Avonds laat, de lucht nog gloeit,\nde krekels zingen, ongestoord,\neen tuinfeest met een lantaarn licht,\nde nacht komt traag, het is nog zicht.\n\nDe vruchten rijpen, zwaar en zoet,\neen pruim, een perzik, overvloed,\nde bijen dromen in de bloemen,\nniemand hier heeft haast, of zorgen.\n\nZo rekt de zomer, traag en breed,\nelke dag een beetje meer bereid\nom te blijven, hier, in dit moment –\nwarm, en traag, en zonder end."
+    },
+    {
+      "type": "FRUIT",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20,
+      "background": "trees1.jpg"
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "De weg trilt op in warme lucht,\neen hagedis glijdt weg, op vlucht,\ngeen blaadje roert, de wind is stil,\nde hitte hangt er, zwaar en mild.\n\nIn de schaduw van een oude boom\nzit een oude man, verzonken in zijn droom,\neen glas citroenwater, koud en fris,\nterwijl de tijd voorbijglijdt, zonder gemis.\n\nDe korenvelden golven zacht,\ngoud onder de felle zonnepracht,\neen zeis die wacht tot straks, tot later,\nde oogst rijpt rustig, dag na dag, groter.\n\nVer weg een donderwolk verschijnt,\ndie langzaam nadert, grijs omlijnd,\nde eerste druppel valt op steen –\nde aarde ademt op, na hitte, eindelijk teen.\n\nDan ruikt het naar geregend gras,\nverfrissing na de zwoele last,\nde zomeravond opent zich weer wijd,\nvol krekelzang en warme tijd."
+    },
+    {
+      "type": "PICTURES",
+      "level": "W10_AND_HIGHER",
+      "data": [
+        "lessons/french/cc5m1",
+        "lessons/french/cc5m2",
+        "lessons/french/cc5m3",
+        "lessons/french/cc5m4",
+        "lessons/french/cc5m5",
+        "lessons/french/cc5m6",
+        "lessons/french/cc5m7",
+        "lessons/french/cc5m8",
+        "lessons/french/cc6m1",
+        "lessons/french/cc6m2",
+        "lessons/french/cc6m3",
+        "lessons/french/cc6m4",
+        "lessons/french/cc6m5",
+        "lessons/french/cc6m6",
+        "lessons/french/cc6m7",
+        "lessons/french/cc6m8"
+      ],
+      "fromText": 1,
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W10_AND_HIGHER",
+      "lives": 5,
+      "pattern": "1w[5-10]",
+      "winAfter": 30
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "De zomer weet het zelf al haast,\ndat straks de wind weer sneller waait,\nmaar nu nog even, ongehaast,\nde warmte die de huid beschraait.\n\nDe zwaluwen verzamlen zich,\nop draden, klaar voor verre vlucht,\nze voelen het, misschien wel eerder dan ik,\ndat er iets verschuift, iets in de lucht.\n\nToch bloeit de border nog zo vol,\ndahlia's rood en zonnebloemgeel,\nde tuin lijkt vol, tot aan de rol,\nnog niets vraagt om een winters deel.\n\nEen laatste zwem, het water kil\nmaar dragelijk, nog net te doen,\nde kinderen roepen, luid en wild,\nalsof de zomer nooit zal vervloen.\n\n's Avonds vroeger donker nu,\neen teken dat de tijd toch gaat,\nmaar in dit licht, dit warme nu,\nis elke minuut nog puur gelaat.\n\nZo hangt de zomer aan een draad,\nniet weg, nog niet, nog hier, nog trouw,\ntot ergens, zacht, de herfst ontstaat\nen kleur verandert, dag voor dag, in goud."
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Vergeet je sjaal niet de volgende les!",
+      "background": "autumn4.jpg"
+    }
+  ]
+}

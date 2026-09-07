@@ -1,0 +1,105 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "theme": "spring",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 10",
+    "name": "Les 1"
+  },
+  "lesson": [
+    {
+      "type": "COMPUTER",
+      "text": "Welkom bij de 1ste les van deze week. {WAIT=3}\nBen je er klaar voor? "
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 15,
+      "background": "space1.jpg"
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "De winter laat zijn greep nu los,\nde aarde ademt, zacht en broos,\neen krokus breekt door bruine grond,\nwaar gisteren nog kou stond.\n\nDe zon klimt hoger in het blauw,\nde lucht ruikt fris, naar regen, dauw,\nde knoppen zwellen aan de tak,\nverlangend naar hun eerste dag.\n\nEen merel zingt zijn eerste lied,\nde wereld kleurt waar je ook ziet,\nhet groen ontvouwt zich, teder, nieuw,\nde lente fluistert: leef, besluit.\n\nAlles wat sliep komt weer tot leven,\nde natuur heeft zich overgegeven\naan licht, aan warmte, aan een start –\nde lente draagt het in haar hart."
+    },
+    {
+      "type": "FRUIT",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20,
+      "background": "trees1.jpg"
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "Nog dampt de nacht op nat gras,\nals eerste licht het duister vult,\nen ergens, achter grijze wolken,\nschuift de zon geduldig door.\n\nDe bomen dragen bloesemwit,\neen sluier over kale takken,\nde bijen zoemen, dronken bijna,\nvan geur die overal ontwaakt.\n\nEen kind rent langs de vijverkant,\nzijn lach verjaagt de laatste kou,\nterwijl de eendjes, net geboren,\nachter moeder zwemmen, trouw.\n\nDe regen valt nu zacht en kort,\neen douche voor de jonge blaadjes,\ndaarna breekt de hemel open –\nalsof de lente zelf herademt.\n\nZo gaat de tijd, van kiem tot bloei,\nvan stil naar luid, van grauw naar kleur,\nde lente leert ons, ieder jaar,\ndat alles weer opnieuw kan groeien."
+    },
+    {
+      "type": "PICTURES",
+      "level": "W10_AND_HIGHER",
+      "data": [
+        "lessons/french/cc5m1",
+        "lessons/french/cc5m2",
+        "lessons/french/cc5m3",
+        "lessons/french/cc5m4",
+        "lessons/french/cc5m5",
+        "lessons/french/cc5m6",
+        "lessons/french/cc5m7",
+        "lessons/french/cc5m8",
+        "lessons/french/cc6m1",
+        "lessons/french/cc6m2",
+        "lessons/french/cc6m3",
+        "lessons/french/cc6m4",
+        "lessons/french/cc6m5",
+        "lessons/french/cc6m6",
+        "lessons/french/cc6m7",
+        "lessons/french/cc6m8"
+      ],
+      "fromText": 1,
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W10_AND_HIGHER",
+      "lives": 5,
+      "pattern": "1w[5-10]",
+      "winAfter": 30
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "Een streepje zon, een vleugje wind,\nde eerste bij die honing vindt,\nde takken dansen, licht en vrij,\nde winter is voorbij, voorbij!\n\nNarcissen geel langs de rivier,\neen vlinder proeft van zijn plezier,\nde dagen rekken, uur na uur,\nhet licht duurt langer, alle uur.\n\nDe ruiten open, ramen wijd,\nde lucht komt binnen, zoet en blij,\nde lente klopt zomaar aan de deur\nen fluistert zacht: \"kom mee, kom door.\"\n\nGeen wolk te zwaar, geen last te veel,\nvandaag is alles nieuw geheel,\nde aarde lacht in duizend tinten –\nzo laat de lente ons weer beginnen."
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Volgende les gaan we naar de zomer. Dan moeten we zeker voldoende zonnecrème smeren!",
+      "background": "summer5.jpg"
+    }
+  ]
+}

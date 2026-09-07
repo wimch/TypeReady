@@ -1,0 +1,81 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "theme": "summer",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 3",
+    "name": "Les 2"
+  },
+  "lesson": [
+    {
+      "type": "COMPUTER",
+      "text": "Welkom bij de 2de les van deze week. {WAIT=3}\nZoals altijd beginnen we eerst met een kleine opwarming. {WAIT=3}\nBen je er klaar voor? "
+    },
+    {
+      "type": "FRUIT",
+      "level": "W3_L1",
+      "pattern": "1w[4-6]",
+      "lives": 5,
+      "winAfter": 10
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W3_L1",
+      "lives": 5,
+      "winAfter": 2
+    },
+    {
+      "type": "PLACEHOLDER",
+      "text": "Toon hoe je de vingers moet zetten voor w"
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L2",
+      "pattern": "5[w]10[wro]",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W3_L2",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W3_L2",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W3_L2",
+      "lives": 5,
+      "winAfter": 3
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L2",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "FRUIT",
+      "level": "W3_L2",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W3_L2",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Vergeet je sjaal niet de volgende les!",
+      "background": "autumn4.jpg"
+    }
+  ]
+}

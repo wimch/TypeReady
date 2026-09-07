@@ -1,0 +1,82 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "theme": "autumn",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 3",
+    "name": "Les 3"
+  },
+  "lesson": [
+    {
+      "type": "COMPUTER",
+      "text": "Welkom bij de 3de les van deze week. {WAIT=3}\nZoals altijd beginnen we eerst met een kleine opwarming. {WAIT=3}\nBen je er klaar voor? "
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W3_L2",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W3_L2",
+      "pattern": "1w[4-6]",
+      "lives": 5,
+      "winAfter": 15,
+      "background": "space1.jpg"
+    },
+    {
+      "type": "PLACEHOLDER",
+      "text": "Toon hoe je de vingers moet zetten voor p"
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L3",
+      "pattern": "5[p]10[owp]",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "FRUIT",
+      "level": "W3_L3",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W3_L3",
+      "lives": 5,
+      "winAfter": 2
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L3",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W3_L3",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W3_L3",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W3_L3",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "De winter komt eraan!",
+      "background": "winter6.jpg"
+    }
+  ]
+}

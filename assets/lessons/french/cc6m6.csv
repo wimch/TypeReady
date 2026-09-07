@@ -1,0 +1,53 @@
+﻿een glas;un verre;3
+een mes;un couteau;2
+een restaurant;un restaurant;1
+een maaltijd;un repas;6
+een ontbijt;un petit-déjeuner;5
+een middagmaal;un déjeuner;4
+een avondmaal;un diner;9
+een kom;un bol;8
+een bord;une assiette;7
+een vork;une fourchette;12
+een lepel;une cuillère;11
+een kopje;une tasse;10
+een servet;une serviette;14
+een fles;une bouteille;13
+drinken;boire;16
+sluiten;fermer;15
+werken;travailler;18
+binnenkomen;entrer;17
+gesloten;;20
+gesloten (m);fermé;20
+gesloten (v);fermée;20
+open;;19
+open (m);ouvert;19
+open (v);ouverte;19
+een menukaart;un menu;22
+een menu;un menu;22
+een fruitsap;un jus de fruits;21
+een sinaasappelsap;un jus d'orange;21
+een cola;un coca;25
+een thee;un thé;24
+een koffie;un café;23
+een warme chocomelk;un chocolat chaud;28
+een hoofdgerecht;un plat principal;27
+een gerecht;un plat;27
+een dessert;un dessert;26
+een wijn;un vin;31
+spaghetti;des spaghettis;30
+een spaghetti;un spaghetti;30
+een limonade;une limonade;29
+een voorgerecht;une entrée;34
+een salade;une salade;33
+een pizza;une pizza;32
+een soep;une soupe;37
+een saus;une sauce;36
+een ijsje;une glace;35
+een pannenkoek;une crêpe;40
+een wafel;une gaufre;39
+een biertje;une bière;38
+mayonaise;la mayonnaise;43
+frietjes;des frites;42
+pardon;pardon;41
+sorry;pardon;41
+zonder;sans;44

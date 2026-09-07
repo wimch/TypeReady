@@ -1,0 +1,84 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 1",
+    "name": "Les 3"
+  },
+  "lesson": [
+    {
+      "type": "PLACEHOLDER",
+      "text": "Welkom bij de 3de les van deze week"
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W1_L2",
+      "lives": 5,
+      "winAfter": 2
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W1_L2",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "PLACEHOLDER",
+      "text": "Toon hoe je de vingers moet zetten voor e en i"
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W1_L3",
+      "pattern": "15[ei]",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W1_L3",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "FRUIT",
+      "level": "W1_L3",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W1_L3",
+      "lives": 5,
+      "winAfter": 3
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W1_L3",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W1_L3",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W1_L3",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W1_L3",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Bye bye!"
+    }
+  ]
+}

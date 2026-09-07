@@ -1,0 +1,80 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "theme": "winter",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 3",
+    "name": "Les 4"
+  },
+  "lesson": [
+    {
+      "type": "COMPUTER",
+      "text": "Welkom bij de 4de les van deze week. {WAIT=3}\nZoals altijd beginnen we eerst met een kleine opwarming. {WAIT=3}\nBen je er klaar voor? "
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W3_L3",
+      "lives": 5,
+      "winAfter": 3
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W3_L3",
+      "pattern": "1w[4-6]",
+      "lives": 5,
+      "winAfter": 10
+    },
+    {
+      "type": "PLACEHOLDER",
+      "text": "Toon hoe je de vingers moet zetten voor q"
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L4",
+      "pattern": "5[q]10[qwp]",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W3_L4",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W3_L4",
+      "lives": 5,
+      "winAfter": 2
+    },
+    {
+      "type": "FRUIT",
+      "level": "W3_L4",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W3_L4",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W3_L4",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W3_L4",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Bye bye!"
+    }
+  ]
+}

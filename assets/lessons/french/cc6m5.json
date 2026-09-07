@@ -1,0 +1,23 @@
+{
+  "language": "nl",
+  "layout": "AZERTY_BE",
+  "html": {
+    "tab": "Frans",
+    "category": "Casse-cou 6",
+    "name": "Module 5"
+  },
+  "lesson": [
+    {
+      "type": "PICTURES",
+      "title": "Vertaal naar het frans",
+      "level": "W10_AND_HIGHER",
+      "data": [
+        "lessons/french/cc6m5"
+      ],
+      "fromText": 1,
+      "toText": 2,
+      "lives": 30,
+      "mode": "highscore"
+    }
+  ]
+}

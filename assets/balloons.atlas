@@ -1,0 +1,13 @@
+balloons.png
+size:2048,1024
+repeat:none
+background
+bounds:2,2,1280,993
+blue1
+bounds:1284,687,100,308
+blue2
+bounds:1284,377,100,308
+green
+bounds:1386,687,100,308
+red
+bounds:1284,67,100,308

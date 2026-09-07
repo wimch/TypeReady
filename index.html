@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TypeReady</title>
+    <style>
+        body { font-family: monospace; background: #ffffff; color: #1a1a1a; max-width: 800px; margin: 0 auto; padding: 2rem; }
+        h1 { color: #d32f2f; }
+        h3 { color: #555555; margin-bottom: 0.5rem; }
+        .grid { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
+        a { background: #f5f5f5; color: #1a1a1a; padding: 0.5rem 1.2rem; text-decoration: none; border: 1px solid #cccccc; border-radius: 4px; }
+        a:hover { background: #e0e0e0; }
+        .tabs { display: flex; gap: 0.5rem; margin-bottom: 2rem; border-bottom: 1px solid #cccccc; padding-bottom: 1rem; }
+        .tab { border-color: #cccccc; color: #555555; }
+        .tab.active { background: #e0e0e0; border-color: #1a1a1a; color: #1a1a1a; }
+        .panel { display: none; }
+        .panel.active { display: block; }
+        footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #cccccc; color: #888; font-size: 0.8rem; }
+    </style>
+</head>
+<body>
+    <h1>TypeReady</h1>
+    <nav class="tabs">
+        <a href="#azerty" class="tab">Azerty</a>
+        <a href="#qwerty" class="tab">Qwerty</a>
+        <a href="#frans" class="tab">Frans</a>
+    </nav>
+    <section id="azerty" class="panel">
+        <h3>Week 1</h3>
+        <div class="grid">
+            <a href="nl_azerty_be_w1l1.html">Les 1</a>
+            <a href="nl_azerty_be_w1l2.html">Les 2</a>
+            <a href="nl_azerty_be_w1l3.html">Les 3</a>
+            <a href="nl_azerty_be_w1l4.html">Les 4</a>
+            <a href="nl_azerty_be_w1l5.html">Les 5</a>
+        </div>
+        <h3>Week 2</h3>
+        <div class="grid">
+            <a href="nl_azerty_be_w2l1.html">Les 1</a>
+            <a href="nl_azerty_be_w2l2.html">Les 2</a>
+            <a href="nl_azerty_be_w2l3.html">Les 3</a>
+            <a href="nl_azerty_be_w2l4.html">Les 4</a>
+            <a href="nl_azerty_be_w2l5.html">Les 5</a>
+        </div>
+    </section>
+    <section id="qwerty" class="panel">
+        <h3>Week 1</h3>
+        <div class="grid">
+            <a href="nl_qwerty_us_w1l1.html">Les 1</a>
+            <a href="nl_qwerty_us_w1l2.html">Les 2</a>
+            <a href="nl_qwerty_us_w1l3.html">Les 3</a>
+            <a href="nl_qwerty_us_w1l4.html">Les 4</a>
+            <a href="nl_qwerty_us_w1l5.html">Les 5</a>
+        </div>
+        <h3>Week 2</h3>
+        <div class="grid">
+            <a href="nl_qwerty_us_w2l1.html">Les 1</a>
+            <a href="nl_qwerty_us_w2l2.html">Les 2</a>
+            <a href="nl_qwerty_us_w2l3.html">Les 3</a>
+            <a href="nl_qwerty_us_w2l4.html">Les 4</a>
+            <a href="nl_qwerty_us_w2l5.html">Les 5</a>
+        </div>
+        <h3>Week 3</h3>
+        <div class="grid">
+            <a href="nl_qwerty_us_w3l1.html">Les 1</a>
+            <a href="nl_qwerty_us_w3l2.html">Les 2</a>
+            <a href="nl_qwerty_us_w3l3.html">Les 3</a>
+            <a href="nl_qwerty_us_w3l4.html">Les 4</a>
+            <a href="nl_qwerty_us_w3l5.html">Les 5</a>
+        </div>
+        <h3>Week 10</h3>
+        <div class="grid">
+            <a href="nl_qwerty_us_w10l1.html">Les 1</a>
+            <a href="nl_qwerty_us_w10l2.html">Les 2</a>
+            <a href="nl_qwerty_us_w10l3.html">Les 3</a>
+            <a href="nl_qwerty_us_w10l4.html">Les 4</a>
+            <a href="nl_qwerty_us_w10l5.html">Les 5</a>
+        </div>
+    </section>
+    <section id="frans" class="panel">
+        <h3>Casse-cou 5</h3>
+        <div class="grid">
+            <a href="cc5m1.html">Module 1</a>
+            <a href="cc5m2.html">Module 2</a>
+            <a href="cc5m3.html">Module 3</a>
+            <a href="cc5m4.html">Module 4</a>
+            <a href="cc5m5.html">Module 5</a>
+            <a href="cc5m6.html">Module 6</a>
+            <a href="cc5m7.html">Module 7</a>
+            <a href="cc5m8.html">Module 8</a>
+            <a href="cc5m1_cc5m2.html">... -> Module 2</a>
+            <a href="cc5m1_cc5m3.html">... -> Module 3</a>
+            <a href="cc5m1_cc5m4.html">... -> Module 4</a>
+            <a href="cc5m1_cc5m5.html">... -> Module 5</a>
+            <a href="cc5m1_cc5m6.html">... -> Module 6</a>
+            <a href="cc5m1_cc5m7.html">... -> Module 7</a>
+            <a href="cc5m1_cc5m8.html">... -> Module 8</a>
+        </div>
+        <h3>Casse-cou 6</h3>
+        <div class="grid">
+            <a href="cc6m1.html">Module 1</a>
+            <a href="cc6m2.html">Module 2</a>
+            <a href="cc6m3.html">Module 3</a>
+            <a href="cc6m4.html">Module 4</a>
+            <a href="cc6m5.html">Module 5</a>
+            <a href="cc6m6.html">Module 6</a>
+            <a href="cc6m7.html">Module 7</a>
+            <a href="cc6m8.html">Module 8</a>
+        </div>
+        <h3>Casse-cou 5+6</h3>
+        <div class="grid">
+            <a href="cc5m1_cc6m1.html">... -> Module 1</a>
+            <a href="cc5m1_cc6m2.html">... -> Module 2</a>
+            <a href="cc5m1_cc6m3.html">... -> Module 3</a>
+            <a href="cc5m1_cc6m4.html">... -> Module 4</a>
+            <a href="cc5m1_cc6m5.html">... -> Module 5</a>
+            <a href="cc5m1_cc6m6.html">... -> Module 6</a>
+            <a href="cc5m1_cc6m7.html">... -> Module 7</a>
+            <a href="cc5m1_cc6m8.html">... -> Module 8</a>
+        </div>
+    </section>
+    <footer>
+        Versie van: 2026-09-08 00:08:24 CEST &bull; Commit: 754b680
+    </footer>
+    <script>
+        (function () {
+            function show(hash) {
+                document.querySelectorAll('.panel').forEach(function (p) { p.classList.remove('active'); });
+                document.querySelectorAll('.tab').forEach(function (t) { t.classList.remove('active'); });
+                var panel = hash ? document.querySelector(hash) : document.querySelector('.panel');
+                if (panel) {
+                    panel.classList.add('active');
+                    var tab = document.querySelector('a[href="#' + panel.id + '"]');
+                    if (tab) tab.classList.add('active');
+                }
+            }
+            window.addEventListener('hashchange', function () { show(location.hash); });
+            show(location.hash);
+        }());
+    </script>
+</body>
+</html>

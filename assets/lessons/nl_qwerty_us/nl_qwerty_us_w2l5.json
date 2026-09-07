@@ -1,0 +1,82 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 2",
+    "name": "Les 5"
+  },
+  "lesson": [
+    {
+      "type": "PLACEHOLDER",
+      "text": "Welkom bij de 5de les van deze week"
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W2_L4",
+      "lives": 5,
+      "winAfter": 2
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W2_L4",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "PLACEHOLDER",
+      "text": "Toon hoe je de vingers moet zetten voor r"
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W2_L5",
+      "pattern": "5[r]",
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W2_L5",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "FRUIT",
+      "level": "W2_L5",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W2_L5",
+      "lives": 5,
+      "winAfter": 3
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W2_L5",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "SINGLE_LETTER",
+      "level": "W2_L5",
+      "lives": 5,
+      "winAfter": 25
+    },
+    {
+      "type": "LETTER_RING",
+      "level": "W2_L5",
+      "lives": 5,
+      "winAfter": 3
+    },
+    {
+      "type": "PLACEHOLDER",
+      "text": "Boss 2"
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Tot volgende week!"
+    }
+  ]
+}

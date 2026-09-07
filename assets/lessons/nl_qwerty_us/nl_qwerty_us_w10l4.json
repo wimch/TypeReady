@@ -1,0 +1,104 @@
+{
+  "language": "nl",
+  "layout": "QWERTY_US",
+  "theme": "winter",
+  "html": {
+    "tab": "Qwerty",
+    "category": "Week 10",
+    "name": "Les 4"
+  },
+  "lesson": [
+    {
+      "type": "COMPUTER",
+      "text": "Welkom bij de 4de les van deze week. {WAIT=3}\nBen je er klaar voor? "
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 15,
+      "background": "space1.jpg"
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 15
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "De hemel opent zich in wit,\neen stilte daalt over het land,\nelk geluid wordt zacht gesmoord,\nde wereld ligt in nieuwe hand.\n\nDe takken buigen onder vracht,\nvan vlokken die zich stil vergaren,\neen voetstap tekent zich in wit,\nhet enige spoor van al die jaren.\n\nDe kinderen rennen naar buiten toe,\nmet wangen rood, en adem wit,\neen sneeuwpop groeit voor ieders oog,\nterwijl de avond nadert, snel en dicht.\n\nZo valt de sneeuw, geduldig, zacht,\nbedekt wat lelijk was, wat oud,\nen tovert, in een enkele nacht,\nde wereld om tot puur, tot goud."
+    },
+    {
+      "type": "FRUIT",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20,
+      "background": "trees1.jpg"
+    },
+    {
+      "type": "BALLOONS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "De sterren staan zo scherp, zo fel,\nde kou heeft alle wolken weggejaagd,\nde adem hangt als rook in lucht,\nterwijl de vorst het land beslaat.\n\nGeen blad, geen vogel, geen geluid,\nalleen het kraken onder voet,\nde maan werpt schaduw, blauw en stil,\nop sneeuw die alles stopt, verdoet.\n\nAchter ramen brandt een licht,\neen haard die knettert, warm en rood,\nterwijl daarbuiten, ijl en strak,\nde nacht zich spant, oneindig groot.\n\nZo ligt de aarde toegedekt,\nin slaap, in rust, in diepe vrede,\nwachtend tot het licht weer wint,\nen dagen weer wat langer treden."
+    },
+    {
+      "type": "PICTURES",
+      "level": "W10_AND_HIGHER",
+      "data": [
+        "lessons/french/cc5m1",
+        "lessons/french/cc5m2",
+        "lessons/french/cc5m3",
+        "lessons/french/cc5m4",
+        "lessons/french/cc5m5",
+        "lessons/french/cc5m6",
+        "lessons/french/cc5m7",
+        "lessons/french/cc5m8",
+        "lessons/french/cc6m1",
+        "lessons/french/cc6m2",
+        "lessons/french/cc6m3",
+        "lessons/french/cc6m4",
+        "lessons/french/cc6m5",
+        "lessons/french/cc6m6",
+        "lessons/french/cc6m7",
+        "lessons/french/cc6m8"
+      ],
+      "fromText": 1,
+      "lives": 5,
+      "winAfter": 30
+    },
+    {
+      "type": "LETTER_STREAM",
+      "level": "W10_AND_HIGHER",
+      "lives": 5,
+      "pattern": "1w[5-10]",
+      "winAfter": 30
+    },
+    {
+      "type": "TEXT",
+      "lives": 5,
+      "text": "De dagen kruipen, traag en grijs,\nhet licht komt laat, verdwijnt te snel,\nde kou kruipt door de dikste jas,\nde wind snijdt scherp, een koud kwartel.\n\nToch, ergens diep, al ongezien,\nbegint de aarde zich te roeren,\neen knop die wacht, een wortel diep,\ndie zich al voorbereidt op voren.\n\nDe vogels zoeken naar een korrel,\nin tuinen wit, op kale tak,\neen roodborstje, moedig, klein,\nbrengt kleur terug op grijze dag.\n\nZo draagt de winter, stil en hard,\nde belofte van wat komen zal –\ndat na de kou, na donk're tijd,\nhet leven weer ontwaken zal."
+    },
+    {
+      "type": "ASTEROIDS",
+      "level": "W10_AND_HIGHER",
+      "pattern": "1w[5-10]",
+      "lives": 5,
+      "winAfter": 20
+    },
+    {
+      "type": "END_LESSON",
+      "bye": "Bye bye!"
+    }
+  ]
+}

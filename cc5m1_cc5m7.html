@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>gdx-teavm</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <style>
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #000;
+                height: 100vh;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+            #canvas {
+                border: none;
+            }
+        
+            #start-overlay {
+                position: fixed;
+                inset: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background: #000;
+                cursor: pointer;
+                z-index: 10;
+            }
+            #start-overlay > div {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                gap: 1rem;
+                color: #fff;
+                font-family: monospace;
+                font-size: 2rem;
+                user-select: none;
+            }
+            #start-overlay .play {
+                font-size: 5rem;
+                line-height: 1;
+            }
+        </style>
+    </head>
+    <body oncontextmenu="return false">
+        <div>
+            <canvas id="canvas"></canvas>
+        </div>
+        <div id="start-overlay"><div><span class="play">&#9654;</span><span>Klik om te starten</span></div></div>
+        <script>
+            history.replaceState(null, '', './');
+            async function start() {
+                main(["lessons/french/cc5m1_cc5m7"])
+            }
+            var booted = false;
+            function boot() {
+                if (booted) return;
+                booted = true;
+                var overlay = document.getElementById("start-overlay");
+                if (overlay) overlay.remove();
+                start();
+            }
+            window.addEventListener("load", function () {
+                document.getElementById("start-overlay").addEventListener("click", boot);
+                document.addEventListener("keydown", boot);
+            });
+        </script>
+        <script type="text/javascript" charset="utf-8" src="app.js"></script>
+    </body>
+</html>
